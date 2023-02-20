@@ -1,0 +1,6 @@
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\20.101_Gladunov_authorization.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\App.g.cs
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\20.101_Gladunov_authorization_Content.g.cs
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\20.101_Gladunov_authorization_MarkupCompile.cache
+C:\Users\Сергей\source\repos\20.101_Gladunov_authorization\obj\Debug\20.101_Gladunov_authorization_MarkupCompile.lref
